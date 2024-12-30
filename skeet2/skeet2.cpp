@@ -4,6 +4,8 @@
 #include <thread>
 #include <chrono>
 
+// credits for injector https://github.com/adamhlt/DLL-Injector
+
 DWORD GetProcessByName(const char* lpProcessName)
 {
     char lpCurrentProcessName[255];
