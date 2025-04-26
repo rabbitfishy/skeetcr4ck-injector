@@ -2,6 +2,8 @@
 Source of injector for QHide gamesense.
 This is a regular loadlibrary injector that allocates csgo.exe memory in a certain address, gamesense cr4ck need specific base address to work.
 
+WARNING !! You can get VAC ban if using injector without insecure !!!
+
 Need to be skeet.dll in folder with injector.
 VAC support, -insecure dont needed.
 Compile in release x86, launch injector with admin rights
